@@ -68,6 +68,24 @@ X_train.shape
 
 ## OUTPUT:
 ### Dataset
+![s1](https://user-images.githubusercontent.com/94219582/190868864-c222fc16-a2bd-441e-8dbf-d0f0cd9498c3.png)
+### Checking for Null Values
+![s2](https://user-images.githubusercontent.com/94219582/190868899-7b012094-823c-42c0-84b0-10d786d25d2d.png)
+### Checking for duplicate values
+![s3](https://user-images.githubusercontent.com/94219582/190868923-3961d8a8-1f1c-44a5-b588-137f23e5403b.png)
+### Describing Data
+![s4](https://user-images.githubusercontent.com/94219582/190868933-795f0818-42b0-4f5f-a6f1-73408e73db38.png)
+![s5](https://user-images.githubusercontent.com/94219582/190868939-12a492a4-1022-42f1-88bd-0b6319bca443.png)
+### X - Values
+![s6](https://user-images.githubusercontent.com/94219582/190868953-0d9dd002-b099-4924-ac52-35c81e890669.png)
+### Y - Value
+![s7](https://user-images.githubusercontent.com/94219582/190868981-6cbb46cf-7b7e-4c5c-afff-2f5b5e561a3d.png)
+### X_train values and X_train Size
+![s8](https://user-images.githubusercontent.com/94219582/190869018-3d22f961-1ea3-4615-bf4e-65c1c7556897.png)
+### X_test values and X_test Size
+![s9](https://user-images.githubusercontent.com/94219582/190869052-5ee17381-4171-400a-a2dd-53adad63ad0c.png)
+### X_train shape
+![s10](https://user-images.githubusercontent.com/94219582/190869077-0d77f576-7034-4fde-83c5-5b5976e33089.png)
 
-##RESULT
-/Type your result here/
+## RESULT
+Data preprocessing is performed in a data set downloaded from Kaggle
